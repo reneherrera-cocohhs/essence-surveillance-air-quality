@@ -1,0 +1,2 @@
+# essence air quality time series api url
+url <- "https://essence.syndromicsurveillance.org/nssp_essence/api/timeSeries?percentParam=noPercent&endDate=25Aug2022&startMonth=january&airQualityParameterName=pm2.5-24hr&airQualityStation=040051008&airQualityStation=040058001&airQualityStation=840040059999&userId=4887&removeZeroSeries=true&stratVal=airQualityStation&graphOnly=true&datasource=airquality&stationAggregateFunc=max&timeResolution=daily&aqtTarget=TimeSeries&detector=probrepswitch&timeAggregateFunc=max&startDate=27May2022&graphOptions=single"
